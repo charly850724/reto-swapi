@@ -1,0 +1,19 @@
+{
+  "name": "reto-swapi",
+  "version": "1.0.0",
+  "description": "Serverless aws-nodejs-javascript swapi integration",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1377.0",
+    "axios": "^1.4.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "serverless": "^3.30.1"
+  }
+}
